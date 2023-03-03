@@ -5,4 +5,10 @@ public class Greeter {
 	{
 		System.out.println("Hello");
 	}
+
+
+	public void goodbye()
+	{
+		System.out.print("Goodbye");
+	}
 }
